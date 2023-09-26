@@ -1,2 +1,2 @@
 # Increasing-Elevation
-Engaging in daily coding to enhance my potentia
+Engaging in daily coding to enhance my potential
